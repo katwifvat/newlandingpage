@@ -15,7 +15,7 @@
       [:img {:src "img/snappylogo.png"}]]
      [:span {:class "navbar-burger burger"}
       [:span] [:span] [:span]]]
-    [:div {:id    "navbarClojureBridge"
+    [:div {:id    "navbar"
            :class "navbar-menu"}
      [:div {:class "navbar-end"}
      ;  [:a {:class "navbar-item"
