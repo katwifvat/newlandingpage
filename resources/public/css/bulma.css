@@ -7050,7 +7050,7 @@ label.panel-block:hover {
 }
 
 .column.is-vcentered {
-  display: block;
+  display: flex;
   flex-basis: 0;
   flex-grow: 1;
   flex-shrink: 1;

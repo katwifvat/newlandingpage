@@ -40,9 +40,7 @@
       [:figure {:class "image"}
        [:img {:src "img/groupy.png"}]]]
      [:div {:class "column is-vcentered"} 
-      [:span]
       [:div {:class "content"}
-       [:span]
        [:h2 "Join groups. Build together."]
        [:p "Want to learn Clojure web development? "
         [:a {:href   "https://discord.gg/TEB7SU6Ark"}
