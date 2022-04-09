@@ -41,10 +41,12 @@
        [:img {:src "img/groupy.png"}]]]
      [:div {:class "column is-vcentered"} 
       [:div {:class "content"}
-       [:h2 "Join groups. Build together."]
-       [:p "Want to learn Clojure web development? "
-        [:a {:href   "https://discord.gg/TEB7SU6Ark"}
-         "Join our Discord "] "to work on projects with people like you."]
+       [:h2 "Join study groups online."]
+       [:p "Learn new things, make friends and mentor others in a supportive community."]
+       [:p [:a {:href   "https://discord.gg/TEB7SU6Ark"}
+         "Clojure Web Development"]]
+       [:p [:a {:href   "https://discord.gg/UkXc9zQSxX"}
+         "Tarot Card Reading"]]
        ]]]]])
 
 (defn home-panel []
