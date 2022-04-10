@@ -45,6 +45,8 @@
        [:p "Learn new things, make friends and mentor others in a supportive community."]
        [:p [:a {:href   "https://discord.gg/TEB7SU6Ark"}
          "Clojure Web Development"]]
+       [:p [:a {:href   "https://discord.gg/Svn3rxXNSc"}
+            "Ethereum DApps"]]
        [:p [:a {:href   "https://discord.gg/UkXc9zQSxX"}
          "Tarot Card Reading"]]
        ]]]]])
