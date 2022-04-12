@@ -47,6 +47,8 @@
          "Clojure Web Development"]]
        [:p [:a {:href   "https://discord.gg/Svn3rxXNSc"}
             "Ethereum DApps"]]
+       [:p [:a {:href   "https://discord.gg/eKkwVeWjem"}
+            "JavaScript"]]
        [:p [:a {:href   "https://discord.gg/UkXc9zQSxX"}
          "Tarot Card Reading"]]
        ]]]]])
