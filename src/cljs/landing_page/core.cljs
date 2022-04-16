@@ -12,7 +12,7 @@
     [:div {:class "navbar-brand"}
      [:a {:class "navbar-item"
           :href  "/"}
-      [:img {:src "img/snappylogo.png"}]]
+      [:img {:src "img/grouppy.png"}]]
      [:span {:class "navbar-burger burger"}
       [:span] [:span] [:span]]]
     [:div {:id    "navbar"
@@ -51,6 +51,8 @@
             "JavaScript"]]
        [:p [:a {:href   "https://discord.gg/UkXc9zQSxX"}
          "Tarot Card Reading"]]
+       [:p [:a {:href   "https://discord.gg/HPBMzu49aT"}
+            "Cooking"]]
        ]]]]])
 
 (defn home-panel []
