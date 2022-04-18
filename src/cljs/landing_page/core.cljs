@@ -59,6 +59,10 @@
             "Machine Learning"]]
        [:p [:a {:href   "https://discord.gg/Jfhbfg9dBT"}
             "No Code"]]
+       [:p [:a {:href   "https://discord.gg/Qwpx5kKhvW"}
+            "Philosophy & Critical Theory"]]
+       [:p [:a {:href   "https://discord.gg/mzz5EKzdyw"}
+            "Psychology"]]
        [:p [:a {:href   "https://discord.gg/UkXc9zQSxX"}
             "Tarot Card Reading"]]
        ]]]]])
