@@ -42,17 +42,25 @@
      [:div {:class "column is-vcentered"} 
       [:div {:class "content"}
        [:h2 "Join study groups online."]
-       [:p "Learn new things, make friends and mentor others in a supportive community."]
+       [:p "Learn, make friends and mentor others in supportive groups."]
        [:p [:a {:href   "https://discord.gg/TEB7SU6Ark"}
-         "Clojure Web Development"]]
-       [:p [:a {:href   "https://discord.gg/Svn3rxXNSc"}
-            "Ethereum DApps"]]
-       [:p [:a {:href   "https://discord.gg/eKkwVeWjem"}
-            "JavaScript"]]
-       [:p [:a {:href   "https://discord.gg/UkXc9zQSxX"}
-         "Tarot Card Reading"]]
+            "Clojure Web Development"]]
        [:p [:a {:href   "https://discord.gg/HPBMzu49aT"}
             "Cooking"]]
+       [:p [:a {:href   "https://discord.gg/am86saRyBc"}
+            "EDM production"]]
+       [:p [:a {:href   "https://discord.gg/Svn3rxXNSc"}
+            "Ethereum DApps"]]
+       [:p [:a {:href   "https://discord.gg/6sUVyWrWxg"}
+            "Excel"]]
+       [:p [:a {:href   "https://discord.gg/eKkwVeWjem"}
+            "JavaScript"]]
+       [:p [:a {:href   "https://discord.gg/rAbJYuD7Qe"}
+            "Machine Learning"]]
+       [:p [:a {:href   "https://discord.gg/Jfhbfg9dBT"}
+            "No Code"]]
+       [:p [:a {:href   "https://discord.gg/UkXc9zQSxX"}
+            "Tarot Card Reading"]]
        ]]]]])
 
 (defn home-panel []
