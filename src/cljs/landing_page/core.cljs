@@ -45,6 +45,8 @@
        [:p "Learn, make friends and mentor others in supportive groups."]
        [:p [:a {:href   "https://discord.gg/xrSqtpd4E6"}
             "Art History"]]
+       [:p [:a {:href   "https://discord.gg/myuHg8HWF7"}
+            "Astronomy"]]
        [:p [:a {:href   "https://discord.gg/TEB7SU6Ark"}
             "Clojure Web Development"]]
        [:p [:a {:href   "https://discord.gg/HPBMzu49aT"}
