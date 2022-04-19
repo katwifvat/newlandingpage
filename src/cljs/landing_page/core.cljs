@@ -43,6 +43,8 @@
       [:div {:class "content"}
        [:h2 "Join study groups online."]
        [:p "Learn, make friends and mentor others in supportive groups."]
+       [:p [:a {:href   "https://discord.gg/xrSqtpd4E6"}
+            "Art History"]]
        [:p [:a {:href   "https://discord.gg/TEB7SU6Ark"}
             "Clojure Web Development"]]
        [:p [:a {:href   "https://discord.gg/HPBMzu49aT"}
@@ -63,8 +65,12 @@
             "Philosophy & Critical Theory"]]
        [:p [:a {:href   "https://discord.gg/mzz5EKzdyw"}
             "Psychology"]]
+       [:p [:a {:href   "https://discord.gg/smFhwgz7XP"}
+            "React"]]
        [:p [:a {:href   "https://discord.gg/UkXc9zQSxX"}
             "Tarot Card Reading"]]
+       [:p [:a {:href   "https://discord.gg/bKnVvW4vzF"}
+            "TypeScript"]]
        ]]]]])
 
 (defn home-panel []
