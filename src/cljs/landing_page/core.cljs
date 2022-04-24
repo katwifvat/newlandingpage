@@ -42,7 +42,7 @@
      [:div {:class "column is-vcentered"} 
       [:div {:class "content"}
        [:h2 "Join study groups online."]
-       [:p "Learn, make friends and mentor others in supportive groups."]
+       [:p "Learn, make friends and mentor others in supportive groups 😄."]
        [:p [:a {:href   "https://discord.gg/xrSqtpd4E6"}
             "Art History"]]
        [:p [:a {:href   "https://discord.gg/myuHg8HWF7"}
@@ -77,12 +77,27 @@
             "TypeScript"]]
        ]]]]])
 
+(defn paragraph
+  []
+  [:div {:class "container"}
+   [:div {:class "box"}
+    [:div {:class "content"}
+    [:h2 "Wait a minute, these are a bunch of discord servers! What about a designated platform made specially for study groups?"]
+    [:p "Due to popular demand, " [:a {:href   "https://www.nuubi.xyz"}
+                                                  "Nuubi"] " just launched on Saturday April 23rd! Join now to become an OG and shape the future of community learning."]
+     
+  ]]])
+  
+
 (defn home-panel []
   [:div
    (level-separator "overview")
    [navigation-top]
    (level-separator "overview")
-   [overview]])
+   [overview]
+   (level-separator "overview")
+   [paragraph]
+   (level-separator "overview")])
 
 (defmulti  panels identity)
 (defmethod panels :home-panel [] [home-panel])
