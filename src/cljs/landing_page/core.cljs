@@ -67,6 +67,8 @@
             "Philosophy & Critical Theory"]]
        [:p [:a {:href   "https://discord.gg/mzz5EKzdyw"}
             "Psychology"]]
+       [:p [:a {:href   "https://discord.gg/MwPPsrn4BU"}
+            "Python"]]
        [:p [:a {:href   "https://discord.gg/smFhwgz7XP"}
             "React"]]
        [:p [:a {:href   "https://discord.gg/UkXc9zQSxX"}
